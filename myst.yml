@@ -1,12 +1,12 @@
 # $env:BASE_URL = "/starterkit"
 version: 1
 project:
-  title: TU Delft's JB Starterkit
+  title: Desinfectie van zaden met behulp van koud plasma
   # description:
   keywords: [Jupyter Book, Open Science, TU Delft, Starterkit]
 
-  github: https://github.com/TUD-JB-OS/starterkit # change this to your own repository
-  date: 2026-10-09
+  github: https://github.com/NLT-modules/desinfectie/ # change this to your own repository
+  date: 2026-10-29
   thumbnail: style/thumbnail.jpg
   numbering: 
     title: true

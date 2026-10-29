@@ -1,5 +1,5 @@
 ---
-title: The TUD starterkit for open publishing with JupyterBook
+title: Desinfectie van zaden met behulp van koud plasma
 site:
   hide_outline: true
   hide_toc: true
@@ -15,9 +15,9 @@ no-update-date: true
 
 +++ { "kind": "split-image" }
 
-## The TUD starterkit for open publishing with JupyterBook
+## Desinfectie van zaden met behulp van koud plasma
 
-a quick setup for your open publishing project.
+een NLT module
 
 {button}`Use this template <https://github.com/new?template_name=starterkit&template_owner=TUD-JB-OS>`  
 
