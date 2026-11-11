@@ -37,6 +37,7 @@ project:
     - plugins/page-last-updated.mjs
     - plugins/typst_conversion-support.mjs
     - plugins/lightbox.mjs
+    - plugins/editor_local.mjs
     - https://github.com/choldgraf/myst-iconify/releases/latest/download/index.mjs
 
 extends:
